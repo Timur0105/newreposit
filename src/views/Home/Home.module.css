@@ -1,0 +1,111 @@
+.home_main {
+  width: 100%;
+  min-height: 640px;
+  background-image: url("@/assets/images/bigbc.png");
+  padding: 218px 0 227px 136px;
+}
+.home_main_title {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  color: #E6B939;
+}
+.home_main_subtitle {
+  width: 100%;
+  max-width: 416px;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 58px;
+  color: #fff;
+}
+.home_main_text {
+  width: 100%;
+  max-width: 496px;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 25px;
+  color: #fff;
+}
+.home_about {
+  display: flex;
+  padding: 100px 240px 100px 136px;
+}
+.home_about_shape1 {
+  position: absolute;
+  top: 680px;
+  left: 607px;
+  width: 250px;
+  height: 256px;
+}
+.home_about_shape2 {
+  position: absolute;
+  top: 1287px;
+  left: 15px;
+  width: 250px;
+  height: 256px;
+}
+.home_about_partone_img {
+  width: 576px;
+  height: 576px;
+}
+.home_about_parttwo {
+  padding: 174px 0 0 136px;
+}
+.home_about_parttwo_title {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 2px;
+  color: #E6B939;
+}
+.home_about_parttwo_subtitle {
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 43px;
+  color: #575445;
+}
+.home_about_parttwo_text {
+  width: 100%;
+  max-width: 384px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  color: #575445;
+}
+.home_about_parttwo_footer {
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 21px;
+  color: #575445;
+  margin: 20px 0 0 0;
+}
+.home_promise {
+  width: 100%;
+  min-height: 900px;
+  background-color: #FAFAFC;
+  padding: 100px 0 160px 0;
+}
+.home_promise_title {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: center;
+  letter-spacing: 2px;
+  color: #E6B939;
+}
+.home_promise_subtitle {
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 43px;
+  text-align: center;
+  color: #575445;
+}
+.home_promise_text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  margin: 0 auto 70px auto;
+  color: #575445;
+  max-width: 538px;
+}/*# sourceMappingURL=Home.module.css.map */
